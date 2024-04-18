@@ -35,5 +35,10 @@
         <p>Ini adalah contoh halaman web sederhana menggunakan HTML.</p>
         <p>Anda dapat menambahkan konten atau elemen lain sesuai kebutuhan.</p>
     </div>
+<ul>
+<li>Anggota:</li>
+<li>Firla</li>
+<li>Elpiraa</li>
+</ul>
 </body>
 </html>
